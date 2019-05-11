@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a study case for how to publishing a package",
+  "main": "Addition.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyangcn15/nodejs_learning.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Chen <cyang112@asu.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenyangcn15/nodejs_learning/issues"
+  },
+  "homepage": "https://github.com/chenyangcn15/nodejs_learning#readme"
+}
